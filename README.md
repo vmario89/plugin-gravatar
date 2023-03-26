@@ -8,11 +8,13 @@ Author
 
 - Frédéric Guillot
 - License MIT
+- forked by vmario89
 
 Requirements
 ------------
 
 - Kanboard >= 1.0.42
+- tested with to be compatible at least with version 1.2.22
 
 Installation
 ------------
